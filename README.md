@@ -14,9 +14,10 @@ Using the np.linalg.solve(), we can find the solutions.
 ### Step 4: 
 End the program
 ## Program:
-'''#Program to find the solution for the given linear equations.
+```
+#Program to find the solution for the given linear equations.
 #Developed by: Viswapriya S
-#RegisterNumber: 25018876
+#RegisterNumber: 212225230311
 # Solve:
 # x + 3y = 5
 # 2x + 5y = -3
@@ -25,8 +26,9 @@ End the program
 # 2(5 - 3y) + 5y = -3
 x = -34
 y = 13
+print(f"[{x}.  {y}.]")
+```
 
-print(f"[{x}.  {y}.]")'''
 ## Output:
 <img width="1283" height="731" alt="image" src="https://github.com/user-attachments/assets/a9115de8-523c-4260-8d58-c7258c5eb3b8" />
 
